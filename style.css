@@ -1,0 +1,53 @@
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    background-color: rgb(68, 68, 68);
+    margin: 0px;
+    color: aliceblue;
+    font-size: 40px;
+    padding: 8px;
+}
+
+.containerBusca {
+    border: solid black;
+    padding: 30px;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: rgb(112, 112, 112);
+    margin-top: 15px;
+}
+
+.containerBusca input {
+    padding: 8px;
+    margin-bottom: 12px;
+    text-align: center;
+    border: solid 1px;
+}
+
+.containerBusca button {
+    display: inline-block;
+    padding: 8px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.containerPersonagem {
+    text-align: center;
+    margin-top: 10px;
+    display: inline-block;
+    border: solid black;
+    background-color: rgb(112, 112, 112);
+    padding: 12px;
+    border-radius: 12px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.containerImg img {
+    border: solid black 1px;
+}
