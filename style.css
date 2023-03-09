@@ -50,4 +50,10 @@ body {
 
 .containerImg img {
     border: solid black 1px;
+    height: 220px;
+}
+
+.btnVoltar {
+    display: flex;
+
 }
